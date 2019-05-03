@@ -1,11 +1,22 @@
 {
-  "posts": [
+  "statusCode": 200,
+  "success": true,
+  "dataExist": true,
+  "verumModelObjectName": "NIC",
+  "verumObjectList": [
     {
-      "id": 1,
-      "title": "hello"
+      "invNo": "2003115",
+      "nicName": "SYNTHETIC0006508978",
+      "nicType": "Normal",
+      "macAddress": "undefined",
+      "ip": "169.65.7.240",
+      "subnet": "169.65.6.0",
+      "dnsName": "micro-3133-60ve",
+      "dnsDomain": "svr.uk.jpmchase.net",
+      "configuration": "STATIC",
+      "primaryFlag": "Yes",
+      "verumIdentifier": "2003115_SYNTHETIC0006508978_169.65.7.240"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "message": "Success"
 }
